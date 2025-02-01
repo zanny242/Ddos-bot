@@ -11,7 +11,7 @@ import io
 import requests
 import math
 client = commands.Bot(command_prefix='>',case_insensitive=True)
-TOKEN=('')#<------------------- your bot token!
+TOKEN=('MTMzNTI2NDk2NjExNDE1MjQ5MQ.GlU5ZZ.aVZmQBuCdUzOhWXfjM1LR3ur7-wzunshwkuJNw')#<------------------- your bot token!
 
 client.remove_command('help')
 
